@@ -26,6 +26,12 @@ A connection manager for the command line.
 * Free software: MIT license
 * Documentation: https://conartist.readthedocs.io.
 
+Disclaimer
+----------
+
+**This is a work in progress AKA not working**
+
+This is my first Python project, I trying to learn Python by scratching my own itch (I have heard that's what the cool kids are doing).
 
 Features
 --------
